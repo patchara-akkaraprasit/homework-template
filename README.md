@@ -1,5 +1,5 @@
 # Homework 1
 
-Student ID : 
+Student ID :6030300741
 
-Student Name:
+Student Name:พัชร อัครประสิทธิ์
